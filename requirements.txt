@@ -1,0 +1,5 @@
+theano
+flask
+nltk
+gunicorn
+gevent
